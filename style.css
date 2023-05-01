@@ -26,7 +26,6 @@ display: flex;
 
 .iniciantes, .sobre{
   margin-top: 55px;
-  border:2px solid black;
 }
 .ecto, .meso, .endo{
   margin-top: 55px;
