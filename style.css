@@ -23,7 +23,7 @@ display: flex;
 }
 
 .principal, .biotipo{
-  width: 98%;
+  width: 95%;
   height: 40%;
   margin-top: 30px;
     border: 8px solid #49bca7;
