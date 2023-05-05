@@ -23,10 +23,11 @@ display: flex;
 }
 
 .principal, .biotipo{
-  width: 92%;
+  width: 98%;
   height: 40%;
   margin-top: 30px;
     border: 8px solid #49bca7;
+   display:block;
 }
 
 .iniciantes, .sobre{
